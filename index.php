@@ -1,8 +1,8 @@
 <?php
 $hostname="localhost";
-$username="id21418317_lucasfumache";
-$password="Lucas22020*";
-$dbname="id21418317_projetolucas";
+$username="id21321235_projeto508029";
+$password="id21321235_admin";
+$dbname="id21321235_projeto508029";
 $usertable="td_usuario";
 
  $con=mysqli_connect($hostname,$username, $password) or die ("html>script language='JavaScript'>alert('unable to connect to dabase! please try again later.',history.go(-1)/script>/html>");
